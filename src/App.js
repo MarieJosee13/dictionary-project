@@ -10,7 +10,17 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="App-footer">Coded by Marie-Josée Dubé</footer>
+        <footer className="App-footer">
+          Coded by Marie-Josée Dubé,{" "}
+          <a
+            href="https://github.com/MarieJosee13/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            {" "}
+            open source project{" "}
+          </a>
+        </footer>
       </div>
     </div>
   );

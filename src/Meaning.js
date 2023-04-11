@@ -7,7 +7,7 @@ export default function Meaning(props) {
       <h4>{props.meaning.partOfSpeech}</h4>
       <div>
         <p>
-          <strong>Definition:</strong>
+          <strong>Definition: </strong>
           {props.meaning.definition}
           <br />
           <em>{props.meaning.example}</em>

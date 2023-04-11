@@ -1,5 +1,9 @@
-.Result-titles {
+.Result h2,
+.Results h4 {
   font-weight: bolder;
+}
+.Results h4 {
+  letter-spacing: 1px;
 }
 .Synonyms {
   font-style: italic;

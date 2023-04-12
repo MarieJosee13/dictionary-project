@@ -1,0 +1,8 @@
+.Synonyms ul {
+  list-style: none;
+  padding-left: 0;
+}
+.Synonyms .syn-explanation {
+  font-style: normal;
+  font-weight: bolder;
+}

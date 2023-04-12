@@ -5,20 +5,20 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header">Dictionary;</header>
+        <header className="App-header">Dictionary</header>
 
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="forest" />
         </main>
         <footer className="App-footer">
-          Coded by Marie-Josée Dubé,{" "}
+          Coded by <span>Marie-Josée Dubé</span>, and is an
           <a
             href="https://github.com/MarieJosee13/dictionary-project"
             target="_blank"
             rel="noreferrer"
           >
             {" "}
-            open source project{" "}
+            open source project on GitHub!{" "}
           </a>
         </footer>
       </div>

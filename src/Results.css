@@ -1,14 +1,33 @@
-.Result h2,
-.Results h4 {
-  font-weight: bolder;
+.Results-header {
+  background-color: #4b5e69cb;
+  border-radius: 5px;
+  border: 1px solid #c5cbcd;
+  margin-top: 15px;
+  padding-top: 37px;
 }
-.Results h4 {
+.Results-header h2 {
+  font-weight: bolder;
+  padding-left: 10px;
+  font-size: 33px;
+  color: #fff;
+  line-height: 25px;
+}
+.Results-header h4 {
   letter-spacing: 1px;
+  padding-left: 10px;
+  font-weight: bolder;
+  color: #ffffffd2;
 }
 .Synonyms {
   font-style: italic;
 }
 .Results hr {
-  background-color: rgba(128, 128, 128, 0.151);
+  background-color: rgba(156, 154, 154, 0.151);
   padding: 1px;
+}
+.Results section {
+  border-radius: 7px;
+  background-color: rgba(255, 255, 255, 0.671);
+  padding: 20px 20px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }

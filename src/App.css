@@ -1,3 +1,28 @@
-.App-footer {
+body {
+  background-color: #c2d1ca;
+}
+
+.App-header {
   text-align: center;
+  font-family: poppins;
+  font-size: 30px;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  padding-bottom: 20px;
+  padding-top: 10px;
+  color: #004d00;
+}
+.App-footer {
+  font-size: 14px;
+  padding-top: 20px;
+  text-align: center;
+}
+.App-footer a {
+  color: teal;
+}
+
+.App-footer span {
+  color: teal;
+  font-weight: 600;
 }

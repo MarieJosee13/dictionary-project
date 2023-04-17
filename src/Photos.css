@@ -5,9 +5,7 @@
   background-color: #4b5e69cb;
   border: 1px solid #c5cbcd;
   border-radius: 5px;
-  display: grid;
-  grid-gap: 3px;
-  grid-template-columns: 1fr 1fr 1fr;
+
   margin-top: 30px;
   padding: 20px 10px;
 }

@@ -4,11 +4,12 @@
   border: 1px solid #c5cbcd;
   margin-top: 15px;
   padding-top: 37px;
+  padding-bottom: 6px;
 }
 .Results-header h2 {
   font-weight: bolder;
   padding-left: 10px;
-  font-size: 33px;
+  font-size: 38px;
   color: #fff;
   line-height: 25px;
 }

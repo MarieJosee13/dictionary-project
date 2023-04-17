@@ -1,0 +1,13 @@
+.img-fluid {
+  width: 100%;
+}
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 3px;
+  margin-top: 30px;
+  padding: 20px 10px;
+  background-color: #4b5e69cb;
+  border-radius: 5px;
+  border: 1px solid #c5cbcd;
+}

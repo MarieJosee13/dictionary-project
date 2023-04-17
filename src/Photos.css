@@ -11,3 +11,10 @@
   border-radius: 5px;
   border: 1px solid #c5cbcd;
 }
+.Photos a {
+  display: inline-block;
+  transition: 180ms ease-in-out;
+}
+.Photos a:hover {
+  opacity: 0.5;
+}

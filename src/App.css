@@ -3,21 +3,21 @@ body {
 }
 
 .App-header {
-  text-align: center;
+  color: #004d00;
   font-family: poppins;
   font-size: 30px;
   font-weight: 300;
-  text-transform: uppercase;
   letter-spacing: 5px;
   padding-bottom: 20px;
   padding-top: 10px;
-  color: #004d00;
+  text-align: center;
+  text-transform: uppercase;
 }
 .App-footer {
   font-size: 14px;
+  padding-bottom: 20px;
   padding-top: 10px;
   text-align: center;
-  padding-bottom: 20px;
 }
 .App-footer a {
   color: teal;

@@ -8,8 +8,9 @@
 .Dictionary-header input {
   border: 1px solid #ffffff;
   border-radius: 4px;
-  padding: 4px 8px;
+  padding: 7px 8px;
   width: 50%;
+  font-size: 14px;
 }
 .Dictionary-header .hint {
   background-color: #4b5e6983;

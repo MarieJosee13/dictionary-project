@@ -1,8 +1,9 @@
 .Meaning h4 {
   color: rgb(0, 77, 0);
-  font-size: 25px;
+  font-size: 26px;
   text-decoration: overline;
 }
 .Meaning p {
   color: #485541;
+  font-size: 15px;
 }
